@@ -152,7 +152,7 @@ Requirements:
 | State Management | 20 | ✅ |
 | Advanced Feature | 15 | ✅ |
 | Loom Video | 10 | Need to do |
-| Deployment | 10 | Need to do |
-| **Total** | **110** | **80/110** |
+| Deployment | 10 | ✅ |
+| **Total** | **110** | **90/110** |
 
-Still need to do the video and deploy it.
+Just need to record the Loom video now.
